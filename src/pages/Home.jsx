@@ -5,8 +5,9 @@ import Veggie from '../components/Veggie'
 const Home = () => {
   return (
     <div className="Home">
-      <Popular/>
       <Veggie/>
+      <Popular/>
+      
     </div>
   )
 }
